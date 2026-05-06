@@ -55,7 +55,7 @@ before they cause failures.
 
 ## System Design
 
-![Circuit Diagram](circuit/circuit_diagram.png)
+https://github.com/Prabhashi07/Mechanical-Vibration-Analysis-Prototype/blob/main/Circuit%20Diagram.jpeg
 
 ---
 
