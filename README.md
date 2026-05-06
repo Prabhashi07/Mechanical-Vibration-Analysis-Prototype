@@ -29,7 +29,7 @@ before they cause failures.
 * Power Bank
 ---
 
-## 🧠 How It Works
+## How It Works
 
 1. Measures acceleration using MPU6050
 2. Removes gravity (1g)
@@ -44,7 +44,7 @@ before they cause failures.
 
 ---
 
-## 📊 Features
+## Features
 
 * Real-time vibration monitoring
 * Edge processing (no internet required)
@@ -53,13 +53,13 @@ before they cause failures.
 
 ---
 
-## 🖼️ System Design
+## System Design
 
 ![Circuit Diagram](circuit/circuit_diagram.png)
 
 ---
 
-## 💡 Industry Relevance
+## Industry Relevance
 
 This project provides an affordable alternative to expensive industrial systems like:
 
@@ -68,13 +68,13 @@ This project provides an affordable alternative to expensive industrial systems 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 See folders for code, circuit diagrams, and documentation.
 
 ---
 
-## 👥 Team Members
+## Team Members
 
 * WSA Wijerathna
 * ADS Perera
@@ -85,7 +85,7 @@ See folders for code, circuit diagrams, and documentation.
 
 ---
 
-## 📌 Future Improvements
+## Future Improvements
 
 * Add IoT dashboard
 * Store vibration history
